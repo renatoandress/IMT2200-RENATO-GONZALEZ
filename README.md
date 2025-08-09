@@ -1,6 +1,6 @@
 # 👤 Renato Andrés González Gómez
 ## ℹ️ Descripción
-Este repositorio contiene registro de todas mis <mark>evaluaciones</mark> (actividades, tareas, interrogaciones y el proyecto) del IMT2200 (Introducción a la Ciencia de Datos, UC). Aún no hay una estructura definida de las carpetas.
+Este repositorio contiene registro de todas mis evaluaciones (actividades, tareas, interrogaciones y el proyecto) del IMT2200 (Introducción a la Ciencia de Datos, UC). Aún no hay una estructura definida de las carpetas.
 
 ## 📋 Actividades
 ### Actividad 1: Descripción Censo 2017 y usar Git
