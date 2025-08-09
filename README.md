@@ -1,1 +1,1 @@
-# IMT2200-RENATO-GONZALEZ
+Renato Andrés González Gómez
