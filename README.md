@@ -5,16 +5,9 @@ Este repositorio contiene registro de todas mis evaluaciones (actividades, tarea
 
 ## 📋 Actividades
 ### Actividad 1: Descripción Censo 2017 y usar Git
-En base a datos del censo del 2017 (Chile), se observa la población total (17.574.003), la distribución de edad por región (Vea figura 1) y la cantidad de personas por manzana de la Región Metropolitana (Vea figura 2). Cambié el nombre de la imagen y me di el atado de usar Git para subir los archivos en el repositorio. (Disculpen las imagenes, con README el style no funciona)
 
-<figure>
-  <img height="150" width="550">
-  <figcaption>1. Distrbición de edad por región</figcaption>
-</figure>
-<figure>
-  <img src='https://github.com/renatoandress/IMT2200-RENATO-GONZALEZ/blob/main/PoblacionRM_C2017_Gonzalez.jpg' height="325" width="325">
-  <figcaption>2. Cantidad de personas por manzana en RM</figcaption>
-</figure>
+<img width="466" height="240" align="right">
+En base a datos del censo del 2017 (Chile), se observa la población total (17.574.003), la distribución de edad por región y la cantidad de personas por manzana de la Región Metropolitana. Cambié el nombre de la imagen y me di el atado de usar Git para subir los archivos en el repositorio. Supongo que usaron un rango de edad [0,5],[6,14],[15,65] y (65,) para 'primeria infancia', 'infancia', 'adultez' y 'persona mayor'; y dado que la población adulta es la mayor en todas las regiones, acceder a la distribución de edades de adultos podría ser más informativo y se podrían pensar medidas (como promover natalidad o mejorar servicios de salud) con datos suficientes.
 
 ## 👎 Comentario (Actividad 1)
 Poco serio el que hizo las instrucciones</br>
