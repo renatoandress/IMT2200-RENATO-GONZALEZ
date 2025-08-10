@@ -1,10 +1,20 @@
 # 👤 Renato Andrés González Gómez
 ## ℹ️ Descripción
 Este repositorio contiene registro de todas mis evaluaciones (actividades, tareas, interrogaciones y el proyecto) del IMT2200 (Introducción a la Ciencia de Datos, UC). Aún no hay una estructura definida de las carpetas.
+<img src=
 
 ## 📋 Actividades
 ### Actividad 1: Descripción Censo 2017 y usar Git
-En base a datos del censo del 2017 (Chile), se observa la población total (17.574.003), la distribución de edad por región (imagen en el <a href='https://github.com/renatoandress/IMT2200-RENATO-GONZALEZ/blob/main/Actividad%2001/IMT2200%20-%20Actividad%2001.ipynb'>archivo</a>) y la cantidad de personas por manzana de la Región Metropolitana (<a href='https://github.com/renatoandress/IMT2200-RENATO-GONZALEZ/blob/main/PoblacionRM_C2017_Gonzalez.jpg'>imagen</a>). Cambié el nombre de la imagen y me di el atado de usar Git para subir los archivos en el repositorio.
+En base a datos del censo del 2017 (Chile), se observa la población total (17.574.003), la distribución de edad por región (Vea figura 1) y la cantidad de personas por manzana de la Región Metropolitana (Vea figura 2). Cambié el nombre de la imagen y me di el atado de usar Git para subir los archivos en el repositorio. (Disculpen las imagenes, con README el style no funciona)
+
+<figure>
+  <img height="150" width="550">
+  <figcaption>1. Distrbición de edad por región</figcaption>
+</figure>
+<figure>
+  <img src='https://github.com/renatoandress/IMT2200-RENATO-GONZALEZ/blob/main/PoblacionRM_C2017_Gonzalez.jpg' height="325" width="325">
+  <figcaption>2. Cantidad de personas por manzana en RM</figcaption>
+</figure>
 
 ## 👎 Comentario (Actividad 1)
 Poco serio el que hizo las instrucciones</br>
