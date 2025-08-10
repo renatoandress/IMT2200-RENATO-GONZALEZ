@@ -1,13 +1,13 @@
 # 👤 Renato Andrés González Gómez
 ## ℹ️ Descripción
 Este repositorio contiene registro de todas mis evaluaciones (actividades, tareas, interrogaciones y el proyecto) del IMT2200 (Introducción a la Ciencia de Datos, UC). Aún no hay una estructura definida de las carpetas.
-<img src=
 
 ## 📋 Actividades
 ### Actividad 1: Descripción Censo 2017 y usar Git
 
 <img src='https://github.com/renatoandress/IMT2200-RENATO-GONZALEZ/blob/main/Actividad%2001/figuras.jpg' width="466" height="240" align="right">
-En base a datos del censo del 2017 (Chile), se observa la población total (17.574.003), la distribución de edad por región y la cantidad de personas por manzana de la Región Metropolitana. Cambié el nombre de la imagen y me di el atado de usar Git para subir los archivos en el repositorio. Supongo que usaron un rango de edad [0,5],[6,14],[15,65] y (65,) para 'primeria infancia', 'infancia', 'adultez' y 'persona mayor'; y dado que la población adulta es la mayor en todas las regiones, acceder a la distribución de edades de adultos podría ser más informativo y se podrían pensar medidas (como promover natalidad o mejorar servicios de salud) con datos suficientes.
+En base a datos del censo del 2017 (Chile), se observa la población total (17.574.003), la distribución de edad por región y la cantidad de personas por manzana de la Región Metropolitana. Cambié el nombre de la imagen y me di el atado de usar Git para subir los archivos en el repositorio. Supongo que usaron un rango de edad [0,5],[6,14],[15,65] y (65,) para 'primeria infancia', 'infancia', 'adultez' y 'persona mayor'; y dado que la población adulta es la mayor en todas las regiones, acceder a la distribución de edades de adultos podría ser más informativo y se podrían pensar medidas (como promover natalidad o mejorar servicios de salud) con datos suficientes.<br><br>
+PD: No pude hacer una imagen más grande, lo siento😿
 
 ## 👎 Comentario (Actividad 1)
 Poco serio el que hizo las instrucciones</br>
